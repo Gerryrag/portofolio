@@ -1,18 +1,21 @@
-body {
-    min-height: 2000px;
-}
+
 
 .jumbotron {
-    padding-top: 10%;
-   background-image: url(asset/slide5.jpg);
+   padding: 14%;
+   background-image: url(asset/ayam2.jpeg);
    position: relative;
    background-position: center;
 }
 
 #about {
-    background-color: #273036;
-    padding-top: 5%;
+    background-color: #ffd588;
+    padding: 11%;
 }
 #project{
-    background-color: #969595;
+    background-color: #ffc14e;
+    padding: 6%;
+    
+}
+footer{
+    padding: 6%;
 }
